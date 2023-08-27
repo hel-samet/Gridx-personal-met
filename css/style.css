@@ -11,6 +11,7 @@ h1,h2,h3,h4,span ,li{
 }
 .sa{
     animation-duration: 3s;
+   
 }
 .con-1{
     align-items: center;
@@ -248,6 +249,7 @@ h1,h2,h3,h4,span ,li{
     gap: 10px;
 }
 .box-3 h1{
+    margin-top: 10px;
     font-size: 30px;
     color: white;
     font-weight: 400;
